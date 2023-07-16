@@ -1,4 +1,6 @@
 
+./vsrc/carry4.v
+./vsrc/carry64.v
 ./vsrc/alu.v
 ./vsim/rpt_pkg.sv
 ./vsim/alu_pkg.sv
